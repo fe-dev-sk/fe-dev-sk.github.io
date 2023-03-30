@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eclipse-test/index.html/static/css/main.ed508f3b.css",
+    "main.js": "/eclipse-test/index.html/static/js/main.e3cb4a22.js",
+    "static/media/psyduck-image.png": "/eclipse-test/index.html/static/media/psyduck-image.6dff416ae1811a3d1b2b.png",
+    "static/media/pokeball-image.png": "/eclipse-test/index.html/static/media/pokeball-image.d4f4c36374aad37e3be4.png",
+    "index.html": "/eclipse-test/index.html/index.html",
+    "main.ed508f3b.css.map": "/eclipse-test/index.html/static/css/main.ed508f3b.css.map",
+    "main.e3cb4a22.js.map": "/eclipse-test/index.html/static/js/main.e3cb4a22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed508f3b.css",
+    "static/js/main.e3cb4a22.js"
+  ]
+}
